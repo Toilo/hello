@@ -1,14 +1,14 @@
 {
-  "main.css": "/toilo.github.io/hello/static/css/main.48c252fb.chunk.css",
-  "main.js": "/toilo.github.io/hello/static/js/main.fd855424.chunk.js",
-  "main.js.map": "/toilo.github.io/hello/static/js/main.fd855424.chunk.js.map",
-  "static/js/1.a700ff87.chunk.js": "/toilo.github.io/hello/static/js/1.a700ff87.chunk.js",
-  "static/js/1.a700ff87.chunk.js.map": "/toilo.github.io/hello/static/js/1.a700ff87.chunk.js.map",
-  "runtime~main.js": "/toilo.github.io/hello/static/js/runtime~main.c065eed6.js",
-  "runtime~main.js.map": "/toilo.github.io/hello/static/js/runtime~main.c065eed6.js.map",
-  "static/media/logo.svg": "/toilo.github.io/hello/static/media/logo.5d5d9eef.svg",
-  "static/css/main.48c252fb.chunk.css.map": "/toilo.github.io/hello/static/css/main.48c252fb.chunk.css.map",
-  "index.html": "/toilo.github.io/hello/index.html",
-  "precache-manifest.48ff7d7ed1f614d638f7f0351b2af3af.js": "/toilo.github.io/hello/precache-manifest.48ff7d7ed1f614d638f7f0351b2af3af.js",
-  "service-worker.js": "/toilo.github.io/hello/service-worker.js"
+  "main.css": "/hello/static/css/main.48c252fb.chunk.css",
+  "main.js": "/hello/static/js/main.ec263cf7.chunk.js",
+  "main.js.map": "/hello/static/js/main.ec263cf7.chunk.js.map",
+  "static/js/1.a700ff87.chunk.js": "/hello/static/js/1.a700ff87.chunk.js",
+  "static/js/1.a700ff87.chunk.js.map": "/hello/static/js/1.a700ff87.chunk.js.map",
+  "runtime~main.js": "/hello/static/js/runtime~main.c9c085a1.js",
+  "runtime~main.js.map": "/hello/static/js/runtime~main.c9c085a1.js.map",
+  "static/media/logo.svg": "/hello/static/media/logo.5d5d9eef.svg",
+  "static/css/main.48c252fb.chunk.css.map": "/hello/static/css/main.48c252fb.chunk.css.map",
+  "index.html": "/hello/index.html",
+  "precache-manifest.6ccf801ba46dc9bddb0157dfdf1f33ff.js": "/hello/precache-manifest.6ccf801ba46dc9bddb0157dfdf1f33ff.js",
+  "service-worker.js": "/hello/service-worker.js"
 }
